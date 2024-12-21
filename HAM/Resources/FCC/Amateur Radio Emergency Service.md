@@ -1,4 +1,5 @@
-The **Amateur Radio Emergency Service (ARES)** is a volunteer organization composed of licensed amateur radio operators who provide emergency communication services in times of need. #ARES is organized under the auspices of the **American Radio Relay League #ARRL in the United States and operates under Federal Communications Commission #FCC rules.
+#ARS
+The **Amateur Radio Emergency Service (ARES)** is a volunteer organization composed of licensed amateur radio operators who provide emergency communication services in times of need. #ARES is organized under the auspices of the **American Radio Relay League #ARRL in the United States and operates under Federal Communications Commission [[FCC]] rules.
 
 ### Key Features of ARES:
 

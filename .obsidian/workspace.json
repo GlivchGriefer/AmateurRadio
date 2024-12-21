@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "61ac4069ad3e04d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b5cc27b0fe4e0a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7bd55914ff4b824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HAM/Technician/Study Pages/Yagi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yagi"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5ae30dfd6f3d4da",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab602e27f5d7a5bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aae967148067275b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3bdfe193a6ae68c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#rectifier",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5940bfcef6af0e0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "221860627fabf08b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc981f8e9243e759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ff08b569a6343e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HAM/Technician/Pass Your Amateur Radio Technician Class Test - The Easy Way.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pass Your Amateur Radio Technician Class Test - The Easy Way"
+            }
+          },
+          {
+            "id": "d11a480f4806f14f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HAM/Technician/Pass Your Amateur Radio Technician Class Test - The Easy Way.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pass Your Amateur Radio Technician Class Test - The Easy Way"
+            }
+          },
+          {
+            "id": "897ac76b34832f3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41718d45985124f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HAM/Technician/Pass Your Amateur Radio Technician Class Test - The Easy Way.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pass Your Amateur Radio Technician Class Test - The Easy Way"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "floating": {
+    "id": "04f6673941c46687",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0ac1fe0e65f8fccb",
+        "type": "window",
+        "children": [
+          {
+            "id": "5bdb3119c6b27153",
+            "type": "tabs",
+            "dimension": 59.315789473684205,
+            "children": [
+              {
+                "id": "a7be38e533fb3f1b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          },
+          {
+            "id": "58ab357f71327657",
+            "type": "tabs",
+            "dimension": 40.68421052631579,
+            "children": [
+              {
+                "id": "bad833105c66e2c0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HAM/Technician/Pass Your Amateur Radio Technician Class Test - The Easy Way.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Pass Your Amateur Radio Technician Class Test - The Easy Way"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1900,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d7bd55914ff4b824",
+  "lastOpenFiles": [
+    "HAM/Technician/Pass Your Amateur Radio Technician Class Test - The Easy Way.md",
+    "HAM/Technician/Study Pages/Yagi.md",
+    "HAM/Technician/Study Pages/model craft.md",
+    "HAM/Technician/Study Pages/multipath.md",
+    "HAM/Technician/Study Pages/type N.md",
+    "HAM/Technician/Study Pages/upper sideband.md",
+    "HAM/Technician/Study Pages/KF1XXX.md",
+    "HAM/Technician/Study Pages/tropospheric ducting.md",
+    "HAM/Technician/Study Pages/sporadic E.md",
+    "HAM/Technician/Study Pages/transverter.md",
+    "HAM/Resources/Images/Propagation.png",
+    "HAM/Technician/Study Pages/radio art.md",
+    "HAM/Technician/Study Pages/repeater, auxiliary or space.md",
+    "HAM/Technician/Study Pages/in at least some segment.md",
+    "HAM/Technician/Study Pages/flat copper strap.md",
+    "HAM/Technician/Study Pages/Keplerian elements.md",
+    "HAM/Technician/Study Pages/remarks of a personal character.md",
+    "HAM/Resources/Images/US Amateur Radio Bands.jpg",
+    "HAM/Technician/Study Pages/50 km.md",
+    "HAM/Technician/Study Pages/146.520 MHz.md",
+    "HAM/Technician/Study Pages/clarifier.md",
+    "HAM/Technician/Study Pages/emitter, base, collector.md",
+    "HAM/Technician/Study Pages/fixed digital message forwarding.md",
+    "HAM/Technician/Study Pages/52.525 MHz.md",
+    "HAM/Technician/Study Pages/70 centimeter band.md",
+    "HAM/Resources/FCC/Amateur Radio Emergency Service.md",
+    "HAM/Resources/FCC/Amateur Radio Service.md",
+    "HAM/Resources/FCC/Radio Amateur Civil Emergency Service.md",
+    "HAM/Technician",
+    "HAM/Technician/Study Pages",
+    "HAM/Resources/Images/Extra Class Book Cover.jpg",
+    "HAM/Resources/Images/General Class Book Cover.jpg",
+    "Technician Class Book Back Cover.jpg",
+    "HAM/Resources/Images/Technician Class Book Cover.jpg"
+  ]
+}

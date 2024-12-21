@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "content:\"emergency\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#ImportantFreqs  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "tag:#FCC  ",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "tag:#ARS  ",
+      "color": {
+        "a": 1,
+        "rgb": 808194
+      }
+    },
+    {
+      "query": "tag:#VHF  ",
+      "color": {
+        "a": 1,
+        "rgb": 9492990
+      }
+    },
+    {
+      "query": "tag:#CallSign  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "tag:#band  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711829
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.483077422145329,
+  "lineSizeMultiplier": 0.3813473183391,
+  "collapse-forces": false,
+  "centerStrength": 0.451881487889273,
+  "repelStrength": 9.79887543252595,
+  "linkStrength": 1,
+  "linkDistance": 57,
+  "scale": 0.5087618855792587,
+  "close": false
+}
