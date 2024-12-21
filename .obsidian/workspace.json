@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "HAM/Resources/UV-5R User Manual.md",
+                    "file": "HAM/Resources/Getting Started Using the Radio/General Mobile Radio Service.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "UV-5R User Manual"
+                  "title": "General Mobile Radio Service"
                 }
               },
               {
@@ -258,8 +258,10 @@
   },
   "active": "ac5f6dd5f362673d",
   "lastOpenFiles": [
-    "HAM/Resources/UV-5R User Manual.md",
+    "HAM/Resources/Getting Started Using the Radio/General Mobile Radio Service.md",
+    "HAM/Resources/Getting Started Using the Radio/Family Radio Service.md",
     "HAM/Resources/Getting Started Using the Radio/Receiving.md",
+    "HAM/Resources/UV-5R User Manual.md",
     "HAM/Technician/Pass Your Amateur Radio Technician Class Test - The Easy Way.md",
     "HAM/Interaction Log/2024 12.21.md",
     "HAM/Resources/Untitled",
@@ -292,7 +294,6 @@
     "HAM/Technician/Study Pages/sporadic E.md",
     "HAM/Technician/Study Pages/transverter.md",
     "HAM/Resources/Images/Propagation.png",
-    "HAM/Technician/Study Pages/radio art.md",
     "HAM/Resources/Images/US Amateur Radio Bands.jpg",
     "HAM/Technician",
     "HAM/Technician/Study Pages",
