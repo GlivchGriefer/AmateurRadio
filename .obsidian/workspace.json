@@ -4,25 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c0e9bd5b6ec469",
-        "type": "tabs",
+        "id": "1b798d02cfd1c24d",
+        "type": "split",
         "children": [
           {
-            "id": "ac5f6dd5f362673d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HAM/Resources/Getting Started Using the Radio/Receiving.md",
-                "mode": "source",
-                "source": false
+            "id": "e6c0e9bd5b6ec469",
+            "type": "tabs",
+            "dimension": 63.43390804597702,
+            "children": [
+              {
+                "id": "fd93256896cb7b6d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HAM/Resources/UV-5R User Manual.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "UV-5R User Manual"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Receiving"
-            }
+              {
+                "id": "e70816a5bd6836d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HAM/Resources/UV-5R User Manual.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "UV-5R User Manual"
+                }
+              },
+              {
+                "id": "45f86cd59739f2fe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HAM/Technician/Pass Your Amateur Radio Technician Class Test - The Easy Way.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Pass Your Amateur Radio Technician Class Test - The Easy Way"
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "5387101cf3fe6dd5",
+            "type": "tabs",
+            "dimension": 36.56609195402299,
+            "children": [
+              {
+                "id": "ac5f6dd5f362673d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HAM/Interaction Log/2024 12.21.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2024 12.21"
+                }
+              }
+            ]
           }
         ],
-        "stacked": true
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -201,11 +258,16 @@
   },
   "active": "ac5f6dd5f362673d",
   "lastOpenFiles": [
+    "HAM/Resources/UV-5R User Manual.md",
+    "HAM/Resources/Getting Started Using the Radio/Receiving.md",
     "HAM/Technician/Pass Your Amateur Radio Technician Class Test - The Easy Way.md",
+    "HAM/Interaction Log/2024 12.21.md",
+    "HAM/Resources/Untitled",
+    "HAM/Resources/Files/BaoFeng_UV-5R_Manual.pdf",
+    "HAM/Interaction Log",
     "HAM/Technician/Study Pages/146.520 MHz.md",
     "HAM/Technician/Study Pages/52.525 MHz.md",
     "HAM/Technician/Study Pages/70 centimeter band.md",
-    "HAM/Resources/Getting Started Using the Radio/Receiving.md",
     "HAM/Resources/FCC/Citizen Band.md",
     "HAM/Resources/Getting Started Using the Radio",
     "HAM/Resources/Files",
@@ -231,9 +293,6 @@
     "HAM/Technician/Study Pages/transverter.md",
     "HAM/Resources/Images/Propagation.png",
     "HAM/Technician/Study Pages/radio art.md",
-    "HAM/Technician/Study Pages/repeater, auxiliary or space.md",
-    "HAM/Technician/Study Pages/in at least some segment.md",
-    "HAM/Technician/Study Pages/flat copper strap.md",
     "HAM/Resources/Images/US Amateur Radio Bands.jpg",
     "HAM/Technician",
     "HAM/Technician/Study Pages",

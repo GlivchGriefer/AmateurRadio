@@ -96,6 +96,7 @@ There is another exception for beacons. **The [[FCC]] defines a beacon as an ama
 ---
 # Bands and Frequencies
 
+![[US Amateur Radio Bands.jpg]]
 
 ---
 # Modes
@@ -120,7 +121,6 @@ There is another exception for beacons. **The [[FCC]] defines a beacon as an ama
 #FDMF Fixed Digital Message Forwarding
 #SSBPhone
 #band 
-![[US Amateur Radio Bands.jpg]]
 
 ---
 # Propagation

@@ -1,0 +1,1 @@
+![[BaoFeng_UV-5R_Manual.pdf]]
