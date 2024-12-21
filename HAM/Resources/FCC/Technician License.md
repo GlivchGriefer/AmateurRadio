@@ -19,7 +19,7 @@ The #Technician test has 35 questions from a pool of 412. Every 4 years the pool
 - [ ] About $15 (ask ahead / preference cash or check) (some VEs don't charge at all)
 
 ## FRN
-- [ ] Go to [[FCC]] website to obtain
+- [ ] Go to #FCC website to obtain
 • Upon passing, the VE processes #Form605 and a Certificate of Successful Completion (CSCE), and your call sign appears in the FCC #ULS database
 - [ ] [[FCC]] will email about $35 registration after test
 • The license is valid for 10 years and has a 2 year grace period before re-testing is required

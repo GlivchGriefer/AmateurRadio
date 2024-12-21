@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "content:\"emergency\"",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
       "query": "tag:#ImportantFreqs  ",
       "color": {
         "a": 1,
@@ -67,6 +60,6 @@
   "repelStrength": 9.79887543252595,
   "linkStrength": 1,
   "linkDistance": 57,
-  "scale": 0.5087618855792587,
+  "scale": 1.0000000000000002,
   "close": false
 }

@@ -38,7 +38,9 @@
 • 200w max below 50MHz
 • >50MHz allows 1500w and all amateur privileges
 
+---
 # Who Are You?
+
 The [[FCC]] assigns #CallSign to radio stations. For instance WMAL is a popular radio station in Washington, DC. Radio amateurs also receive a unique call sign issued by the [[FCC]]. The [[International Telecommunication Union]] (ITU) allocates call sign groups to different countries.
 
 US call signs begin with ***W, K, N, or A***. An amateur whose call sign begins with ***DL*** would be in Germany. A call sign starting with ***PY*** would be from Brazil. 340 [[Recognized Entities]].
@@ -54,7 +56,9 @@ When operating out of your area, you can use a self-assigned indicator. Examples
 
 **Use of the phonetic alphabet is encouraged by the [[FCC]] when identifying your station when using phone.
 
+---
 # Where Can You Operate?
+
 
 Your US amateur radio license entitles you to operate **from any vessel or craft located in international waters and documented or registered in the United States**, in addition to the US and territories. *Remember, "International waters."*
 
@@ -63,7 +67,9 @@ Your US amateur radio license entitles you to operate **from any vessel or craft
 **A non-licensed person is allowed to speak to a foreign station if the foreign country has a third party agreement with the United States.
 
 
+---
 # What Do We Talk About?
+
 
 **Permitted international communications must be incidental to purposes of the [[Amateur Radio Service]] or remarks of a personal nature.
 
@@ -78,13 +84,22 @@ There is another exception for beacons. **The [[FCC]] defines a beacon as an ama
 **Willful interference to other amateur radio stations is permitted at no time.
 
 
+---
 # Who Can You Talk To?
 
+
+---
 # Who Is In Control?
+
 **Repeater, #auxiliary and space stations can automatically retransmit.** They are types of repeaters, and repeaters automatically retransmit. "Auxiliary" is a repeater for repeaters.
+
+---
 # Bands and Frequencies
 
+
+---
 # Modes
+
 
 ## #FM
 ## #AM
@@ -99,12 +114,17 @@ There is another exception for beacons. **The [[FCC]] defines a beacon as an ama
 **NTSC is fast-scan color TV.
 
 
+---
 # Band Plans
+
 #FDMF Fixed Digital Message Forwarding
 #SSBPhone
 #band 
 ![[US Amateur Radio Bands.jpg]]
+
+---
 # Propagation
+
 multipath #propagation 
 #HF vs #VHF
 #UHF
@@ -117,7 +137,10 @@ Several layers divide the ionosphere, commonly referred to as the D, E, and F la
 The E layer has a component that can be unpredictable and sporadic #SporadicE **Occasional strong over-the-horizon signals on the 10, 6, and 2-meter bands are sporadic E.** *Cheat: If you see "sporadic" in an answer, it is correct.*
 
 ![[Propagation.png]]
+
+---
 # Be Safe, Stay Safe
+
 #RF 
 ### #TestQuestion 
 **An acceptable way to check exposure is using:**
@@ -125,9 +148,13 @@ The E layer has a component that can be unpredictable and sporadic #SporadicE **
 • Computer modeling
 • Measurement of field strength using calibrated equipment
 
+---
 # Radio Operation
 
+
+---
 # How to Start a Conversation
+
 
 If you are not using a repeater, call #CQ.
 **CQ means calling any station.
@@ -152,18 +179,22 @@ If you are not using a repeater, call #CQ.
 • Make sure you are authorized to use that frequency
 
 
+---
 # Extending Your Range With Repeaters
+
 #auxiliary
 #VoIP Voice over Internet Protocol
 #DMR Digital Mobile Radio
 #IRLP Internet Radio Linking Project
 #DTMF Dual Tone Multi-Frequency
 
+---
 # Operating Simplex
+
 
 **If you are transmitting and receiving on the same frequency, it is simplex communication.
 
-It helps to start on a frequency where others commonly listen. These are "calling frequencies." **The national calling frequency for #FM simplex operations in the 2-meter band is 146.520MHz. #ImportantFreqs 
+It helps to start on a frequency where others commonly listen. These are "calling frequencies." **The national calling frequency for #FM simplex operations in the 2-meter band is 146.520MHz. #146_520MHz #ImportantFreqs 
 
 Call CQ to establish a simplex contact. **The meaning of the procedural signal "CQ" is calling any station.** Say "CQ, CQ, CQ, this is K4IA calling CQ and listening." We don't use CQ on a repeater.
 
@@ -179,7 +210,9 @@ Call CQ to establish a simplex contact. **The meaning of the procedural signal "
 • Call sign identification for a station transmitting phone signals can be CW or phone emissions.
 
 
+---
 # Messages and Nets
+
 
 #ARES [[Amateur Radio Emergency Service]]
 #RACES [[Radio Amateur Civil Emergency Service]]
@@ -198,7 +231,9 @@ Call CQ to establish a simplex contact. **The meaning of the procedural signal "
 • Phonetic alphabet
 
 
+---
 # Satellites
+
 
 **A satellite beacon is a transmission from a satellite that contains status information.
 
@@ -226,7 +261,9 @@ Call CQ to establish a simplex contact. **The meaning of the procedural signal "
 
 
 
+---
 # Computers and Digital Modes
+
 
 ### Digital communication modes include
 • Packet
@@ -257,7 +294,9 @@ Call CQ to establish a simplex contact. **The meaning of the procedural signal "
 • Meteor scatter
 
 
+---
 # Radio Design
+
 
 #Sensitivity
 #mixer
@@ -267,7 +306,9 @@ Call CQ to establish a simplex contact. **The meaning of the procedural signal "
 #rectifier 
 
 
+---
 # Clean up the Signal
+
 
 #OverDeviating = peaking microphone
 
@@ -284,7 +325,9 @@ Call CQ to establish a simplex contact. **The meaning of the procedural signal "
 • Politely inform
 
 
+---
 # Electronic Theory
+
 
 ### #TestQuestion 
 **The current flow opposed by resistance is:**
@@ -336,7 +379,9 @@ Call CQ to establish a simplex contact. **The meaning of the procedural signal "
 ![[Power In Watts.png]]
 
 
+---
 ## How to Draw A Radio
+
 
 **Figure T-1**
 ![[Figure T-1.png]]
@@ -375,7 +420,9 @@ Call CQ to establish a simplex contact. **The meaning of the procedural signal "
 3 - Variable #inductor
 4 - #antenna
 
+---
 ### More Terms
+
 #parallel
 #meter
 #regulator 
@@ -441,7 +488,9 @@ The change is not linear. **Going from 5w to 10w is 3 dB.** Doubling is 3 dB. Ha
 • Lithium-ion
 • Lead-acid
 
+---
 # Words to Remember
+
 
 ***Certain words only appear in correct answers. You have the right answer if you see these words. Learn to recognize a few key phrases and use the Index to find the explanation and question.***
 

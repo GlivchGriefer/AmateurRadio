@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7b5cc27b0fe4e0a4",
+        "id": "e6c0e9bd5b6ec469",
         "type": "tabs",
         "children": [
           {
-            "id": "d7bd55914ff4b824",
+            "id": "ac5f6dd5f362673d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HAM/Technician/Study Pages/Yagi.md",
+                "file": "HAM/Resources/Getting Started Using the Radio/Receiving.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yagi"
+              "title": "Receiving"
             }
           }
         ],
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rectifier",
+                "query": "146",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 401.5
   },
   "right": {
     "id": "221860627fabf08b",
@@ -170,16 +169,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "0ac1fe0e65f8fccb",
+        "id": "5ed5d46a3922cf9e",
         "type": "window",
         "children": [
           {
-            "id": "5bdb3119c6b27153",
+            "id": "1e9e0970cad76499",
             "type": "tabs",
-            "dimension": 59.315789473684205,
             "children": [
               {
-                "id": "a7be38e533fb3f1b",
+                "id": "d7bd55914ff4b824",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -189,42 +187,39 @@
                 }
               }
             ]
-          },
-          {
-            "id": "58ab357f71327657",
-            "type": "tabs",
-            "dimension": 40.68421052631579,
-            "children": [
-              {
-                "id": "bad833105c66e2c0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "HAM/Technician/Pass Your Amateur Radio Technician Class Test - The Easy Way.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Pass Your Amateur Radio Technician Class Test - The Easy Way"
-                }
-              }
-            ]
           }
         ],
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1900,
+        "width": 1280,
         "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d7bd55914ff4b824",
+  "active": "ac5f6dd5f362673d",
   "lastOpenFiles": [
     "HAM/Technician/Pass Your Amateur Radio Technician Class Test - The Easy Way.md",
+    "HAM/Technician/Study Pages/146.520 MHz.md",
+    "HAM/Technician/Study Pages/52.525 MHz.md",
+    "HAM/Technician/Study Pages/70 centimeter band.md",
+    "HAM/Resources/Getting Started Using the Radio/Receiving.md",
+    "HAM/Resources/FCC/Citizen Band.md",
+    "HAM/Resources/Getting Started Using the Radio",
+    "HAM/Resources/Files",
+    "HAM/Resources/FCC/FCC.md",
+    "HAM/Resources/FCC/Technician License.md",
+    "HAM/Resources/FCC/Radio Amateur Civil Emergency Service.md",
+    "HAM/Resources/FCC/47 CFR Part 97.md",
+    "HAM/Resources/FCC/Amateur Radio Service.md",
+    "HAM/Resources/Files/47 CFR Part 97 (up to date as of 12-18-2024).pdf",
+    "HAM/Resources/FCC/Amateur Radio Emergency Service.md",
+    "README.md",
+    "HAM/Resources/Images/Obsidian.png",
+    "HAM/Resources/Images/Technician Course Overview.png",
+    "HAM/Resources/Images/Pasted image 20241220235424.png",
     "HAM/Technician/Study Pages/Yagi.md",
     "HAM/Technician/Study Pages/model craft.md",
     "HAM/Technician/Study Pages/multipath.md",
@@ -239,19 +234,7 @@
     "HAM/Technician/Study Pages/repeater, auxiliary or space.md",
     "HAM/Technician/Study Pages/in at least some segment.md",
     "HAM/Technician/Study Pages/flat copper strap.md",
-    "HAM/Technician/Study Pages/Keplerian elements.md",
-    "HAM/Technician/Study Pages/remarks of a personal character.md",
     "HAM/Resources/Images/US Amateur Radio Bands.jpg",
-    "HAM/Technician/Study Pages/50 km.md",
-    "HAM/Technician/Study Pages/146.520 MHz.md",
-    "HAM/Technician/Study Pages/clarifier.md",
-    "HAM/Technician/Study Pages/emitter, base, collector.md",
-    "HAM/Technician/Study Pages/fixed digital message forwarding.md",
-    "HAM/Technician/Study Pages/52.525 MHz.md",
-    "HAM/Technician/Study Pages/70 centimeter band.md",
-    "HAM/Resources/FCC/Amateur Radio Emergency Service.md",
-    "HAM/Resources/FCC/Amateur Radio Service.md",
-    "HAM/Resources/FCC/Radio Amateur Civil Emergency Service.md",
     "HAM/Technician",
     "HAM/Technician/Study Pages",
     "HAM/Resources/Images/Extra Class Book Cover.jpg",
